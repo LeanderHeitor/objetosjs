@@ -1,0 +1,44 @@
+Objetos Materiais:
+
+Carro:
+
+Atributos:
+Modelo
+Cor
+Ano de Fabricação
+Métodos:
+Ligar()
+Desligar()
+Acelerar()
+Livro:
+
+Atributos:
+Título
+Autor
+Número de Páginas
+Métodos:
+Abrir()
+Fechar()
+Ler()
+Objetos Abstratos:
+
+Conta Bancária:
+
+Atributos:
+Número da Conta
+Saldo
+Tipo de Conta
+Métodos:
+Depositar(valor)
+Sacar(valor)
+VerificarSaldo()
+Usuário (representando uma entidade em um sistema):
+
+Atributos:
+Nome
+ID
+Email
+Métodos:
+AtualizarPerfil()
+EnviarMensagem()
+VisualizarNotificações()
